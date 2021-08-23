@@ -37,7 +37,7 @@ I created these images, feel free to use them.
 
 - ![Profile views](https://gpvc.arturio.dev/Im-zeus)
 
-- ![Im-zeus's github stats](https://github-readme-stats.vercel.app/api?username=Im-zeus&show_icons=true&theme=cobalt&count_private=true)
+- [^](https://github-readme-stats.vercel.app/api?username=Im-zeus&show_icons=true&theme=cobalt&count_private=true)
 
 - [![GitHub followers](https://img.shields.io/github/followers/Im-zeus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Im-zeus?tab=followers)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
